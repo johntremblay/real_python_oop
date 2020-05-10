@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4d470e0-3ce4-4cf0-9d37-63d06af2f33c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_session/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_session/basic_class_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_session/basic_class_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_session/chain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_session/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_session/shapes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_session/third_video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_session/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_session/basic_class_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_session/basic_class_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_session/chain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_session/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_session/shapes.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +26,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/first_session" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\John\PycharmProjects\real_python_oop\oop_scripts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\John\PycharmProjects\real_python_oop\first_session" />
     </key>
@@ -44,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chain">
+  <component name="RunManager" selected="Python.shapes">
     <configuration name="basic_class_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="real_python_oop" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chain" />
         <item itemvalue="Python.shapes" />
+        <item itemvalue="Python.chain" />
         <item itemvalue="Python.basic_class_2" />
         <item itemvalue="Python.third_video" />
       </list>
